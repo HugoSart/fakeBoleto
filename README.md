@@ -1,2 +1,2 @@
 # fakeBoleto
-Simplesmente um boleto fake
+Simplesmente um boleto fake.
